@@ -1,4 +1,4 @@
-# Python UV Starter
+ear# Python UV Starter
 
 This is a simple Python [uv](https://docs.astral.uv) starter in Firebase Studio.
 
